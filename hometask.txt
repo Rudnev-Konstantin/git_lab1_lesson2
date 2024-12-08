@@ -1,0 +1,13 @@
+да вроде ни чем
+
+
+8
+
+init
+heat added
+README added
+fix readme
+boots
+dots
+Merge remote-tracking branch 'upstream/hat'
+Добавил ответ в hometask.txt
